@@ -1,0 +1,1 @@
+<h1 className="display-4 text-center">Order prescriptions</h1>
